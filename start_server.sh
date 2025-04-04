@@ -1,0 +1,1 @@
+nohup python3 /home/ubuntu/app/app.py > /home/ubuntu/app/server.log 2>&1 &
